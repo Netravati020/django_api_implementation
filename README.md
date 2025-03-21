@@ -36,7 +36,7 @@ This project is a Django-based authentication system that implements **cookie-ba
 
 ### 1. Clone the Repository
 ```sh
- git clone <your-repo-url>
+ git clone https://github.com/Netravati020/django_api_implementation.git
  cd <your-project-folder>
 ```
 
